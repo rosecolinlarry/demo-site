@@ -3,7 +3,7 @@ name: "Demo Site"
 email: keaackerman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Test site. Please ignore.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/demo-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaisacat
 instagram_username: keaackerman
